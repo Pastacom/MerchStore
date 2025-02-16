@@ -1,0 +1,1 @@
+INSERT INTO users (username, password_hash, balance) VALUES ('senderUser', 'someHash', 1000), ('receiverUser', 'otherHash', 500);
